@@ -1,3 +1,3 @@
-** TextArea Limiter
- Limit Textarea characters to a given size with JavaScript
- trying to be as functional as possible
+# TextArea Limiter
+ Limit HTML Textarea to a given size on characters and lines using JavaScript and pretending to
+to be as functional as possible. :-)
